@@ -1,0 +1,3 @@
+LINE 1: echo "hello, World"
+LINE 2: echo I am here to learn Bash Scripting.
+LINE 3: echo $(date)
